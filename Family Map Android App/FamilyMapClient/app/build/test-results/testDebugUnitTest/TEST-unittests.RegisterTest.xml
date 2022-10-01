@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unittests.RegisterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-03T02:27:44" hostname="LAPTOP-INAF8U0V" time="0.042">
+  <properties/>
+  <testcase name="registerFail" classname="unittests.RegisterTest" time="0.022"/>
+  <testcase name="registerPass" classname="unittests.RegisterTest" time="0.02"/>
+  <system-out><![CDATA[ERROR: Bad Request
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

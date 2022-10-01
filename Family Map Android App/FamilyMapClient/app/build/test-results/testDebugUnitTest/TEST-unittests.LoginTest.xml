@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unittests.LoginTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-03T02:27:44" hostname="LAPTOP-INAF8U0V" time="0.049">
+  <properties/>
+  <testcase name="loginFail" classname="unittests.LoginTest" time="0.024"/>
+  <testcase name="loginPass" classname="unittests.LoginTest" time="0.025"/>
+  <system-out><![CDATA[ERROR: Bad Request
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

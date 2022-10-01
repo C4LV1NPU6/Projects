@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unittests.SearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-03T02:27:44" hostname="LAPTOP-INAF8U0V" time="0.001">
+  <properties/>
+  <testcase name="searchFail" classname="unittests.SearchTest" time="0.001"/>
+  <testcase name="searchPass" classname="unittests.SearchTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
