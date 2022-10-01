@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\event_result_item.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\event_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\life_event_item.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\life_event_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item_group.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\list_item_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_person.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\activity_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_event.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\activity_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\family_member_item.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\family_member_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_search.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\person_result_item.xml",
+        "source": "C:\\Users\\troop\\AndroidStudioProjects\\FamilyMapClient\\app\\src\\main\\res\\layout\\person_result_item.xml"
+    }
+]
