@@ -1,0 +1,2 @@
+Empty directories hold "hi" files to avoid being deleted by GitHub. The impact of these "hi" files on the application's 
+functionality and/or performance has not been tested.
