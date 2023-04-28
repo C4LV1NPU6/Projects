@@ -2,10 +2,6 @@
 
 
 
-# Assignment submission notes:
-
-
-
 ## 1/23/23 (C4LV1NPU6):
 
 This is the directory for the startup web application.
