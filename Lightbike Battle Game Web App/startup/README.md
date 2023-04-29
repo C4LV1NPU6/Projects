@@ -5,10 +5,15 @@ Have you ever wanted to take part in a lightbike battle from the hit movie "Tron
 ![Illustration_sans_titre](https://user-images.githubusercontent.com/89880125/215221594-4fe18c7e-f147-41ed-9923-c7dba0f9fe23.jpg)
 
 Key features:
+
 -Secure login over HTTPS.
+
 -Persistent storage for users and matches.
+
 -Ability to play the Lightbike Battle game with any other user.
+
 -Ability to see number of wins and losses.
+
 -Ability to chat with opponent.
 
 Game link: https://startup.lightbikebattle.click/
