@@ -16,4 +16,4 @@ Key features:
 
 -Ability to chat with opponent.
 
-Game link: https://startup.lightbikebattle.click/
+The game website (startup.lightbikebattle.click) and its host website (lightbikebattle.click).
