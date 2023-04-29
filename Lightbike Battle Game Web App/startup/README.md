@@ -124,7 +124,7 @@ Sub-site deploy command: ./deployFiles.sh -k ~/Desktop/finish.delete.Open\ Tabs/
 
 Set up Startup HTML+CSS sub-website.
 
-We learned how to implement the Startup web application using HTML and CSS. This included the layout and appearances for the main game page. It was a lot of information but we used our Codepen prototype so it didn't take super long.
+I learned how to implement the Startup web application using HTML and CSS. This included the layout and appearances for the main game page. It was a lot of information but I used my Codepen prototype so it didn't take super long.
 
 Sub-site name: https://startup.lightbikebattle.click/
 
@@ -182,7 +182,7 @@ Sub-site deploy command: ./deployFiles.sh -k ~/Desktop/finish.delete.Open\ Tabs/
 
 Set up Startup HTML+CSS+JavaScript sub-website.
 
-We learned how to implement our Startup web application using HTML, CSS, and JavaScript. This included the layout, appearances, and functionality for the login/register and main/game pages. It was a lot of information but we used our Codepen prototype so it didn't take super long.
+I learned how to implement my Startup web application using HTML, CSS, and JavaScript. This included the layout, appearances, and functionality for the login/register and main/game pages. It was a lot of information but I used my Codepen prototype so it didn't take super long.
 
 Sub-site name: https://startup.lightbikebattle.click/
 
