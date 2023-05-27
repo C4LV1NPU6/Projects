@@ -16,6 +16,4 @@ Key features:
 
 -Ability to chat with opponent.
 
-The game website (startup.lightbikebattle.click) and its host website (lightbikebattle.click).
-
-IMPORTANT: These websites may be shut down at the present moment to avoid charges+fees.
+The game website: startup.lightbikebattle.click. The host website: lightbikebattle.click. These websites may be shut down at the present moment to avoid charges+fees.
